@@ -23,7 +23,7 @@
 
               
 - Future objectives:
-    - Gradguate University and seek a job within a specialized field.
+    - Graduate University and seek a job within a specialized field.
     - To develop my person and skills.
    
 
