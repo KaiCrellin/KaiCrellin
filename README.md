@@ -1,16 +1,15 @@
--  Hi, I’m @KaiCrellin a student of information technology and business management at LHU (Liverpool Hope University).
+-  Hi, I’m @KaiCrellin a student of information technology and business management BC(Hons) at LHU (Liverpool Hope University).
   
--  I’m interested in video games and their development, physical activities, and developing my coding specializations.
+-  I’m interested in video games and their development, systems components, how they are intergrated and communicate, physical activities, and developing my coding specializations.
   
 -  I’m currently learning PHP, SQL, JS, HTML, CSS, and important tools for development
   
--  I have previous experience in: python, excel (e.g fundemental functions and input handling for forms).
-  
--  I’m looking to collaborate on anything EASY.
+-  I have previous experience in python, and Microsoft excel(Data analysis, manipulation and representing that in forms and graphs).
   
 -  How to reach me: Kaicrellin1244@gmail.com , Kaicrellin@live.co.uk .
 
--  Fun fact: I have produced 2 finished and 3 unfinished projects for Assignments and personal development.
+- IMPLEMENTATION:
+- I have produced 2 finished and 3 unfinished projects for Assignments and personal development.
 - A Basic website that is navigationable with some functionality to handle user input for animations (e.g drop down lists)
 - A python (pygame) replication of "Cookie Clicker' a well known idle game.
 - A replication of "Chess" (Unfinished - Deceptively Difficult).
@@ -22,9 +21,10 @@
               
 
               
-- Future objectives:
+- FUTURE OBJECTIVES:
     - Graduate University and seek a job within a specialized field.
     - To develop my person and skills.
+    - Apply for Internships to bolster my CV.
    
 
 <!---
