@@ -17,7 +17,7 @@
 - A replicated university website with advanced functionallity. (Group work - 4 members including me).
   - Ability to upload and download resources, handling logic such as log in, out and requesting new passwords with implementation of verification and authentication throughout
     to ensure security. implementing CSRF tokens and PDOExceptions to reduce cross site reference forgery and SQL injections.
-    Using all the skills ive aquired so far ( HTML, CSS, JS, SQL, PHP and use of WAMP server's). (Unfinished)
+    Using all the skills ive aquired so far ( HTML, CSS, JS, SQL, PHP and use of WAMP server's). 
               
 
               
