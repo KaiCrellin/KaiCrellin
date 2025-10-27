@@ -4,7 +4,7 @@
   
 -  I’m currently learning PHP, SQL, JS, HTML, CSS, and important tools for development
   
--  I have previous experience in python, and Microsoft excel(Data analysis, manipulation and representing that in forms and graphs).
+-  I have previous experience in python, and Microsoft excel(Data analysis, manipulation and representing that in graphs).
   
 -  How to reach me: Kaicrellin1244@gmail.com , Kaicrellin@live.co.uk .
 
