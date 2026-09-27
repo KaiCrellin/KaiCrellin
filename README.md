@@ -1,31 +1,47 @@
--  Hi, I’m @KaiCrellin a student of information technology and business management BC(Hons) at LHU (Liverpool Hope University).
-  
--  I’m interested in video games and their development, systems components, how they are intergrated and communicate, physical activities, and developing my coding specializations.
-  
--  I’m currently learning PHP, SQL, JS, HTML, CSS, and important tools for development
-  
--  I have previous experience in python, and Microsoft excel(Data analysis, manipulation and representing that in graphs).
-  
--  How to reach me: Kaicrellin1244@gmail.com , Kaicrellin@live.co.uk .
+Who Am i?
+---------
+I am Kai Crellin a Graduate of Liverpool hope University with a 2:1, Bachelor's of Arts with Honors in Business Management and Information Technology
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-- IMPLEMENTATION:
-- I have produced 2 finished and 3 unfinished projects for Assignments and personal development.
+What am i interested or have experience in?
+-------------------------------------------
+I am increasinly interested in scalabe distributed backend systems, RESTful APIs written in Node.js,TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, leveraging a serios of tools such as Axios, Express, Mongoose, Cors, Dotenv, and utilziing those skills to seamlessly create full-stack applications
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+What am i learning
+--------------------
+I’m currently Developing my understanding of the CI/CD pipeline including Unit,Intergration, and E2E Testing, Docker, and a series of tools that are necessary for deploying scalable, reliable, and secure applicaions. 
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+How can i be reached?
+----------------------
+I  can be reached Through Either  Kaicrellin1244@gmail.com , Kaicrellin@live.co.uk. Expect a Quicker Response for the Gmail as it is my main email
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+What have i Implemented?
+------------------------
+First Projects:
+------------------
 - A Basic website that is navigationable with some functionality to handle user input for animations (e.g drop down lists)
+  
 - A python (pygame) replication of "Cookie Clicker' a well known idle game.
-- A replication of "Chess" (Unfinished - Deceptively Difficult).
-- A To-Do-List to track future projects and every day activities (Unfinished).
-- A replicated university website with advanced functionallity. (Group work - 4 members including me).
-  - Ability to upload and download resources, handling logic such as log in, out and requesting new passwords with implementation of verification and authentication throughout
-    to ensure security. implementing CSRF tokens and PDOExceptions to reduce cross site reference forgery and SQL injections.
-    Using all the skills ive aquired so far ( HTML, CSS, JS, SQL, PHP and use of WAMP server's). 
-              
 
-              
-- FUTURE OBJECTIVES:
-    - Graduate University and seek a job within a specialized field.
-    - To develop my person and skills.
-    - Apply for Internships to bolster my CV.
-   
+- A replicated university website with advanced functionallity. (Group work - 4 members including me) [ Which reinforced my ability to upload, download, and manage data across backend services such as logging in/out, requesting new passwords while actively implementeing verification and authentication throughout to ensure security inside user accounts througn CSRF tokens, PDOExceptions to reduce corss site reference forgery and SQL injections.]
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Newer Projects:
+---------------
+- Full-stack Weather Dashboard & Gateway (Public)
+- Financial Projection simulator (Private)
+- LofiBox & Social Clone (Spotify and Instagram Clone) (Private)
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Current Objectives
+-----------------
+1. Reinforce my mathematical understanding with raw JS and leetcode
+2. Stay consistent with building applications focusing on maintaing clean practices, learning new tools and developing my understanding of core services that run the internet.
+3. Apply for a series of backend positions
+
 
 <!---
 KaiCrellin/KaiCrellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
