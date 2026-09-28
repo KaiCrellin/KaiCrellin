@@ -1,28 +1,28 @@
 Who Am i?
 ---------
-I am Kai Crellin a Graduate of Liverpool hope University with a 2:1, Bachelor's of Arts with Honors in Business Management and Information Technology
+I am Kai Crellin a graduate of Liverpool Hope University with a 2:1 Bachelor's of Arts with Honors in Business Management and Information Technology.
 
 
 What am i interested or have experience in?
 -------------------------------------------
-I am increasinly interested in scalabe distributed backend systems, RESTful APIs written in Node.js,TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, leveraging a serios of tools such as Axios, Express, Mongoose, Cors, Dotenv, and utilziing those skills to seamlessly create full-stack applications
+I am increasinly interested in scalable, serverless,distributed backend systems, RESTful APIs, Node.js, TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, leveraging a serios of tools such as Axios, Express, Mongoose, Cors, Dotenv, and utilziing those skills to seamlessly create full-stack applications.
 
 
 What am i learning
 --------------------
-I’m currently Developing my understanding of the CI/CD pipeline including Unit,Intergration, and E2E Testing, Docker, and a series of tools that are necessary for deploying scalable, reliable, and secure applicaions with a focus on serverless architecture and solutions.
+I’m currently developing my understanding of the CI/CD pipeline including Unit, Intergration, and E2E Testing, Docker, and a series of tools that are necessary for deploying scalable, reliable, and secure applicaions with a focus on serverless architecture and solutions.
 
 
 How can i be reached?
 ----------------------
-I  can be reached Through Either  Kaicrellin1244@gmail.com , Kaicrellin@live.co.uk. Expect a Quicker Response for the Gmail as it is my main email
+I  can be reached through either:  Kaicrellin1244@gmail.com | Kaicrellin@live.co.uk. Expect a quicker response for the Gmail as it is my main email.
 
 
 What have i Implemented?
 ------------------------
 First Projects:
 ------------------
-- A Basic website that is navigationable with some functionality to handle user input for animations (e.g drop down lists)
+- A basic website that is navigationable with some functionality to handle user input for animations (e.g drop down lists)
   
 - A python (pygame) replication of "Cookie Clicker' a well known idle game.
 
