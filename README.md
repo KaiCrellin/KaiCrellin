@@ -10,7 +10,7 @@ I am increasinly interested in scalabe distributed backend systems, RESTful APIs
 
 What am i learning
 --------------------
-I’m currently Developing my understanding of the CI/CD pipeline including Unit,Intergration, and E2E Testing, Docker, and a series of tools that are necessary for deploying scalable, reliable, and secure applicaions. 
+I’m currently Developing my understanding of the CI/CD pipeline including Unit,Intergration, and E2E Testing, Docker, and a series of tools that are necessary for deploying scalable, reliable, and secure applicaions with a focus on serverless architecture and solutions.
 
 
 How can i be reached?
