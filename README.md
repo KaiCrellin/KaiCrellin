@@ -5,7 +5,7 @@ I am Kai Crellin a graduate of Liverpool Hope University with a 2:1 Bachelor's o
 
 What am i interested or have experience in?
 -------------------------------------------
-I am increasinly interested in scalable, serverless,distributed backend systems, RESTful APIs, Node.js, TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, leveraging a serios of tools such as Axios, Express, Mongoose, Cors, Dotenv, and utilziing those skills to seamlessly create full-stack applications.
+I am increasinly interested in scalable, serverless,distributed backend systems, RESTful APIs, Node.js, TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, leveraging multiple tools such as Axios, Express, Mongoose, Cors, Dotenv, and utilziing those skills to seamlessly create full-stack applications.
 
 
 What am i learning
