@@ -36,11 +36,10 @@ Newer Projects:
 - LofiBox & Social Clone (Spotify and Instagram Clone) (Private)
 
 
-Current Objectives
+Current Objective
 -----------------
-1. Reinforce my mathematical understanding with raw JS and leetcode
-2. Stay consistent with building applications focusing on maintaing clean practices, learning new tools and developing my understanding of core services that run the internet.
-3. Apply for a series of backend positions
+Stay consistent with building applications focusing on maintaing clean practices, learning new tools and developing my understanding of core services that run the internet.
+   
 
 
 <!---
